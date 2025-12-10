@@ -64,3 +64,5 @@ Analytical & Investigative Thinking
 Root Cause Analysis
 
 Report Writing & Insight Documentation
+
+Project report  Capstone project idc.pdf
