@@ -66,3 +66,5 @@ Root Cause Analysis
 Report Writing & Insight Documentation
 
 Project report  Capstone project idc.pdf
+
+**Project Report** - https://github.com/tejaswinivarma12/SQL-Murder-Mystery/blob/main/Capstone%20project%20idc.pdf
